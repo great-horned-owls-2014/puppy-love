@@ -1,0 +1,11 @@
+<div id='content'>
+  <h1><%= "#{@dog.name}'s Messages" %></h1>
+  <div id='inbox'>
+  Inbox
+    <%= render 'partials/received_messages' %>
+  </div>
+  <div id='outbox'>
+  Sent
+    <%= render 'partials/sent_messages' %>
+  </div>
+</div>

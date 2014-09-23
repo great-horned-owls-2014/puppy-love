@@ -1,4 +1,10 @@
-== README
+# README  
+===============
+[Puppy-love](http://puppy-love.herokuapp.com/)
+
+[![Build
+Status](https://travis-ci.org/great-horned-owls-2014/puppy-love.svg?branch=master)](https://travis-ci.org/great-horned-owls-2014/puppy-love)
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
